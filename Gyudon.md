@@ -1,14 +1,13 @@
 # Gyudon
-
-Soße
-1 EL Zucker
-1 EL Sojasoße, hell, Japanisch
-1 EL Sojasoße, dunkel
-1 TL Dashi Pulver
-2 TL Seamöl
-1/4 TL Weißer Pfeffer
-1/4 TL Currypulver
-4 EL Wasser
+## Soße
+1 EL Zucker 
+1 EL Sojasoße, hell, Japanisch 
+1 EL Sojasoße, dunkel 
+1 TL Dashi Pulver 
+2 TL Seamöl 
+1/4 TL Weißer Pfeffer 
+1/4 TL Currypulver 
+4 EL Wasser  
 1 kleines Stück Ingwer, gerieben und ausgedrückt (Saft verwenden)
 
 Fleisch
