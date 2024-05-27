@@ -1,17 +1,17 @@
 # Gyudon
-## Soße
+### Soße
 1 EL Zucker  
-1 EL Sojasoße, hell, Japanisch  
-1 EL Sojasoße, dunkel  
-1 TL Dashi Pulver  
-2 TL Seamöl  
-1/4 TL Weißer Pfeffer 
-1/4 TL Currypulver  
-4 EL Wasser  
-1 kleines Stück Ingwer, gerieben und ausgedrückt (Saft verwenden)  
-  
-## Fleisch
-1 große Zwiebel              g, rot  
+1 EL Sojasoße, hell, Japanisch
+1 EL Sojasoße, dunkel
+1 TL Dashi Pulver
+2 TL Seamöl
+1/4 TL Weißer Pfeffer
+1/4 TL Currypulver
+4 EL Wasser
+1 kleines Stück Ingwer, gerieben und ausgedrückt (Saft verwenden)
+
+### Fleisch
+1 große Zwiebel rot  
 2 Frühlingszwiebeln  
 1 EL Eingelegter Inwer, fein gehackt  
 2x1 EL Butter (2x20g)  
@@ -22,10 +22,9 @@
 1,5 L Wasser  
 1 EL Weißweinessig  
 1/2 TL Salz  
-  
+
 Reis (Kurzkorn, z.b. Sushireis).  
 
-Zubereitung:
 Soße anrühren, Zwiebeln in Halbringe schneiden, Frühlingszwiebeln fein schneiden.  
 Butter (1/2) in Pfanne geben und Zwiebeln darin anbraten. Hack zugeben und ca 80% durchgaren.  
 Soße angießen, 90 Sekunden kochen.  

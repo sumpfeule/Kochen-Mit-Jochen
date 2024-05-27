@@ -7,4 +7,4 @@
 1/2 tl Reisessig
 Salz, Pfeffer
 
-Zusammengeben, umrühren und ca. 30 Minuten ziehen lassen (&rarr; Knoblauchgranulat)
+Zusammengeben, umrühren und ca. 30 Minuten ziehen lassen (→ Knoblauchgranulat)

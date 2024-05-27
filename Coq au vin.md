@@ -1,4 +1,4 @@
-Coq au vin
+## Coq au vin
 ==========
 90g bacon
 680g Hühnerbeine
